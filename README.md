@@ -30,4 +30,4 @@ après chaque commande git.
 # Partie du fichier à mettre à jour
 
 Auteurs :
- - Fabien Rozar
+ - Brice HUET
